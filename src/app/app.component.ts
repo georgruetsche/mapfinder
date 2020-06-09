@@ -23,7 +23,7 @@ export class AppComponent implements OnInit {
         }),
       ],
       view: new View({
-        center: [47.43694, 9.13332],
+        center: [0, 0],
         zoom: 0,
       }),
     });
