@@ -15,3 +15,7 @@
 #ol-rotate {
   top: 3em;
 }
+
+.ol-control button {
+  background-color: rgba(40, 40, 40, 0.85) !important;
+}
