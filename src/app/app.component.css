@@ -16,11 +16,6 @@
   top: 3em;
 }
 
-.ol-control {
+.ol-control button {
   background-color: rgba(172, 22, 22, 0.85) !important;
 }
-
-#map
-  > div
-  > div.ol-overlaycontainer-stopevent
-  > div.ol-zoom.ol-unselectable.ol-control;
